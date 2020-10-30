@@ -25,3 +25,9 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+//added to help the bottom nav bar dependencies in build gradle app file
+ext {
+    appCompatVersion = '1.0.0'
+    designSupportVersion = '1.0.0'
+}
