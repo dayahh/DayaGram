@@ -1,6 +1,30 @@
-# Project 3 - *DayaGram*
+# Project 3 PART 2 - *DayaGram*
 
 **DayaGram** is a photo sharing app similar to Instagram but using Parse as its backend.
+
+Time spent: **7** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/4YysAgf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+I had issues adjusting the layout but I was able to correct those issues. Sometimes the UI and the preview layout would have different looks to them.
+
+
+# Project 3 PART 1 - *DayaGram*
 
 Time spent: **11** hours spent in total
 
